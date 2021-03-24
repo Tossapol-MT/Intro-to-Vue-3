@@ -5,7 +5,7 @@ const app = Vue.createApp({
             image: './assets/images/socks_green.jpg',
             // solution
             url: 'https://www.vuemastery.com/'
-            // solution
+                // solution
         }
     }
 })
